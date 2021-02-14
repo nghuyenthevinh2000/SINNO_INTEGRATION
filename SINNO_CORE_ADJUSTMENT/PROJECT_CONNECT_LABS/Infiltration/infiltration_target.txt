@@ -1,0 +1,7 @@
+* Tour 1: Trung tâm công nghệ dữ liệu và tính toán && Trung tâm Navis 
+* Tour 2: Phòng thí nghiệm Mô hình hóa, Mô phỏng và Tối ưu hóa && Phòng thí nghiệm Công nghệ mạng và Truyền thông 
+* Tour 3: Phòng thí nghiệm Khoa học dữ liệu && Trung tâm An toàn an ninh thông tin 
+* Tour 4: Phòng thí nghiệm Hệ thống máy tính && Phòng thí nghiệm Khoa học dữ liệu tầng
+* Tour 5: Trung tâm An toàn an ninh thông tin && Phòng thí nghiệm Hệ thống máy tính 
+* Tour 6: Trung tâm Navis && Trung tâm công nghệ dữ liệu và tính toán 
+* Tour 7: Phòng thí nghiệm Công nghệ mạng và Truyền thông && Phòng thí nghiệm Mô hình hóa, Mô phỏng và Tối ưu hóa
