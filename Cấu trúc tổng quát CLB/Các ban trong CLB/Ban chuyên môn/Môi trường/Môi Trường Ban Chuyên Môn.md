@@ -1,0 +1,1 @@
+- các thành viên chưa quen dùng với Slack, dẫn tới loss of information

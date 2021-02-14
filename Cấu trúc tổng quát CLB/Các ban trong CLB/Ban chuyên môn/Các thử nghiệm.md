@@ -1,0 +1,1 @@
+1. Xin liệt kê các kỹ năng nhưng ngại không muốn liệt kê.
