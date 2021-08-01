@@ -5,7 +5,7 @@
 2. Môi trường CLB: chứa cấu trúc tổ chức của môi trường CLB.
 
 Bộ quản trị và Môi trường CLB là hai thành phần tồn tại song song với nhau. Hai thành phần này phụ thuộc lẫn nhau.
-* Bộ quản trị: __VẬN HÀNH__ và __PHÁT TRIỂN__ môi trường CLB.
+* Bộ quản trị: điều khiển __VẬN HÀNH__ và __PHÁT TRIỂN__ môi trường CLB.
 * Môi trường CLB: quyết định sự tồn tại của bộ quản trị.
 
 Tại sao lại chia như vậy? kinh nghiệm quản lý CLB của tôi cho thấy hai thành phần này trước kia thường không được phân tách rõ ràng. Ban quản trị và Môi trường CLB luôn rât xa rời nhau. Điều đó dẫn tới việc __VẬN HÀNH__ và __PHÁT TRIỂN__ môi trường CLB trở nên sai lệch, thiếu thực tế với Môi trường CLB. Hậu qủa là sự sụp đổ không thể tránh khỏi của Môi trường CLB và cuối cùng là sự sụp đổ của Ban quản trị. Bộ quản trị quyết định môi trường CLB và môi trường CLB quyết định bộ quản trị. Đây là hai thực thể ngang bằng nhau và không thể tách rời.
@@ -14,7 +14,7 @@ Ban đầu bộ quản trị CLB làm như thế nào? Bộ quản trị quyết
 
 Bây giờ phải thay đổi, Bộ quản trị và Môi trường CLB là hai thực thể quyền lực ngang bằng nhau. Bộ quản trị phải hiểu Môi trường CLB để đưa ra các chính sách phù hợp. Khi đó, Môi trường CLB mới làm theo.
 
-# II. Index
+# II. Index (File Structure)
 1. Bộ quản trị 
     * Mô hình quản trị
     * Con người quản trị
@@ -23,6 +23,9 @@ Bây giờ phải thay đổi, Bộ quản trị và Môi trường CLB là hai 
     * Cách xác định những người hiểu môi trường CLB.
     * Core values
     * Các ban trong CLB
+3. Kế hoạch đề xuất của Der Bundeskanzler: Các dự án thay đổi CLB
+4. Kế hoạch vận hành của Der Bundeskanzler
+    * Nhiệm kỳ
 
 # III. Bộ quản trị
 
