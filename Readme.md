@@ -14,7 +14,7 @@ Ban đầu bộ quản trị CLB làm như thế nào? Bộ quản trị quyết
 
 Bây giờ phải thay đổi, Bộ quản trị và Môi trường CLB là hai thực thể quyền lực ngang bằng nhau. Bộ quản trị phải hiểu Môi trường CLB để đưa ra các chính sách phù hợp. Khi đó, Môi trường CLB mới làm theo.
 
-# II. Index
+# II. Index (File Structure)
 1. Bộ quản trị 
     * Mô hình quản trị
     * Con người quản trị
@@ -23,6 +23,9 @@ Bây giờ phải thay đổi, Bộ quản trị và Môi trường CLB là hai 
     * Cách xác định những người hiểu môi trường CLB.
     * Core values
     * Các ban trong CLB
+3. Kế hoạch đề xuất của Der Bundeskanzler: Các dự án thay đổi CLB
+4. Kế hoạch vận hành của Der Bundeskanzler
+    * Nhiệm kỳ
 
 # III. Bộ quản trị
 
